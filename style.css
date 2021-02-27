@@ -2,24 +2,49 @@ body{
 	background-color: darkslategrey;
 }
 
-p, ul, li {
+p, ul, li, span {
 	color:white;
 	text-align: justify;
 	font-family: "Lucida Console", "Courier New", monospace;
 }
 
+p::first-letter {
+	color: #ff0000;
+	font-size: xx-large;
+}
+
+::marker{
+	color: red;
+}
+
+::selection{
+	color: aquamarine;
+	background: black;
+}
+
 .pimage{
 	letter-spacing: 12px;
+	color: deeppink;
 }
 
 h2, h1{
-	color:aqua;
+	color: aqua;
 	text-align: justify;
 	font-family: Arial, Helvetica, sans-serif;
+}
+h2::before{
+    background-image: url('https://i.pinimg.com/originals/35/ce/9f/35ce9f85da291b4c1c504d8cbd37e8ee.gif');
+    background-size: 70px 70px;
+    display: inline-block;
+    width: 70px; 
+    height: 70px;
+    vertical-align: middle;
+    content:"";
 }
 
 a{
 	color: aquamarine;
+
 }
 
 img{
