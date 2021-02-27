@@ -1,0 +1,31 @@
+body{
+	background-color: darkslategrey;
+}
+
+p, ul, li {
+	color:white;
+	text-align: justify;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.pimage{
+	letter-spacing: 12px;
+}
+
+h2, h1{
+	color:aqua;
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+	color: aquamarine;
+}
+
+img{
+	vertical-align: middle;
+}
+
+b{
+	color:gold;
+}
