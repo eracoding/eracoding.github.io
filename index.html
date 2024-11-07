@@ -11,6 +11,7 @@
 </head>
 
 <body>
+  <button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
 <table
   style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
@@ -40,11 +41,11 @@
                         </p>
 
                         <p style="margin-top: 10px;text-align:center">
-                          <a href="mailto:your-email@gmail.com">Email</a> &nbsp;/&nbsp;
-                          <a href="data/Ulugbek_Shernazarov_CV.pdf">CV</a> &nbsp;/&nbsp;
+                          <a href="mailto:u.shernaz4rov@gmail.com@gmail.com">Email</a> &nbsp;/&nbsp;
+                          <a href="data/shernazarov_ulugbek_cv.pdf">CV</a> &nbsp;/&nbsp;
                           <a href="https://scholar.google.com">Scholar</a> &nbsp;/&nbsp;
                           <a href="https://www.linkedin.com/in/ulugbek-shernazarov">LinkedIn</a> &nbsp;/&nbsp;
-                          <a href="https://github.com/UlugbekShernazarov">Github</a>
+                          <a href="https://github.com/eracoding">Github</a>
                         </p>
                         </td>
                     <td style="padding:2.5%;width:40%;max-width:40%">
@@ -163,5 +164,25 @@
         </td>
     </tr>
     </table>
+<script>
+  // Function to toggle theme
+  function toggleTheme() {
+    document.body.classList.toggle('dark-theme');
+    // Save the user's preference
+    if (document.body.classList.contains('dark-theme')) {
+      localStorage.setItem('theme', 'dark');
+    } else {
+      localStorage.setItem('theme', 'light');
+    }
+  }
+
+  // Check for saved user preference and apply it
+  window.onload = function () {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+      document.body.classList.add('dark-theme');
+    }
+  };
+</script>
     </body>
 </html>
