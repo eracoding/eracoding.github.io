@@ -23,17 +23,17 @@ If you want to view the website locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/UlugbekShernazarov/ulugbekshernazarov.github.io
+    git clone https://github.com/eracoding/eracoding.github.io
     ```
 2. Navigate to the project directory:
     ```bash
-    cd ulugbekshernazarov.github.io
+    cd eracoding.github.io
     ```
 3. Open `index.html` in your preferred browser to view the site.
 
 ## Live Version
 
-This site is hosted on GitHub Pages. You can access it at: [https://eracoding.github.io](https://ulugbekshernazarov.info)
+This site is hosted on GitHub Pages. You can access it at: [https://eracoding.github.io](https://eracoding.github.io)
 
 ## Contributing
 
