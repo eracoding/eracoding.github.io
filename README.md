@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ulugbek Shernazarov!
 
 <p align="center">
-  <img width="80%" alt="Welcome Banner" src="https://github.com/eracoding/eracoding.github.io/images/your-header-image-name.png" />
+  <img width="80%" alt="Welcome Banner" src="https://github.com/eracoding/eracoding.github.io/tree/master/images/your-header-image-name.png" />
 </p>
 
 ---
@@ -18,9 +18,9 @@
 
 ## 🚀 Featured Projects
 
-[<img src="https://github.com/eracoding/eracoding.github.io/images/biometric-preview.jpg" alt="Biometric Recognition System" height="120">](https://github.com/eracoding/face-recognition)
-[<img src="https://github.com/eracoding/eracoding.github.io/images/llm-preview.jpg" alt="Loan Approval with LLMs" height="120">](https://github.com/eracoding/pattaya-ml-ait)
-[<img src="https://github.com/eracoding/eracoding.github.io/images/rain-removal-preview.jpg" alt="Advanced Rain Removal" height="120">](https://github.com/eracoding/deraining_in_natural_scenes)
+[<img src="https://github.com/eracoding/eracoding.github.io/tree/master/images/images/biometric-preview.jpg" alt="Biometric Recognition System" height="120">](https://github.com/eracoding/face-recognition)
+[<img src="https://github.com/eracoding/eracoding.github.io/tree/master/images/images/llm-preview.jpg" alt="Loan Approval with LLMs" height="120">](https://github.com/eracoding/pattaya-ml-ait)
+[<img src="https://github.com/eracoding/eracoding.github.io/tree/master/images/images/rain-removal-preview.jpg" alt="Advanced Rain Removal" height="120">](https://github.com/eracoding/deraining_in_natural_scenes)
 
 ---
 
