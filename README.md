@@ -1,46 +1,83 @@
-# Ulugbek Shernazarov's Personal Website
+# 👋 Hi, I'm Ulugbek Shernazarov!
 
-Welcome to my personal website repository! This site provides an overview of my experience, projects, and research interests in computer vision, machine learning, and large language models. 
+<p align="center">
+  <img width="80%" alt="Welcome Banner" src="https://github.com/eracoding/eracoding/images/your-header-image-name.png" />
+</p>
 
-## About Me
+---
 
-I’m a graduate student in Data Science and Artificial Intelligence at the Asian Institute of Technology with a strong background in computer vision and a growing interest in large language models. I have experience in developing advanced facial recognition systems, federated learning models, and natural language processing solutions.
+## 👨‍💻 About Me
 
-## Website Structure
+- 🎓 Graduate student in **Data Science and Artificial Intelligence** at **Asian Institute of Technology**
+- 💡 Specialized in **Computer Vision**, **Machine Learning**, **Large Language Models (LLMs)**
+- 💡 Passionate about developing **biometric systems**, **federated learning models**, and **NLP solutions**
+- 🌐 Building real-world systems powered by deep learning and AI
+- 📢 Always excited about **open-source**, **research projects**, and **innovation**
 
-This repository contains the HTML, CSS, and image assets for my personal website, which includes:
+---
 
-- **About Me**: A brief introduction to my background and interests.
-- **Research Interests**: An overview of my areas of interest, including computer vision, LLMs, and machine learning.
-- **Projects**: Highlights of some of my key projects, such as:
-  - **Biometric Recognition System**: A long-range, high-performance facial recognition system.
-  - **Loan Approval Prediction Using LLMs**: An exploration of large language models for predictive analytics.
-  - **Advanced Rain Removal**: A project on improving image quality using GAN and diffusion models.
+## 🚀 Featured Projects
 
-## Running Locally
+[<img src="https://github.com/eracoding/eracoding.github.io/assets/project1.png" alt="Biometric Recognition System" height="120">](https://github.com/eracoding/face-recognition)
+[<img src="https://github.com/eracoding/eracoding.github.io/assets/project2.png" alt="Loan Approval with LLMs" height="120">](https://github.com/eracoding/pattaya-ml-ait)
+[<img src="https://github.com/eracoding/eracoding.github.io/assets/project3.png" alt="Advanced Rain Removal" height="120">](https://github.com/eracoding/deraining_in_natural_scenes)
 
-If you want to view the website locally:
+---
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/eracoding/eracoding.github.io
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd eracoding.github.io
-    ```
-3. Open `index.html` in your preferred browser to view the site.
+## 📚 Languages & Tools
 
-## Live Version
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+</p>
 
-This site is hosted on GitHub Pages. You can access it at: [https://eracoding.github.io](https://eracoding.github.io)
+---
 
-## Contributing
+## 🔗 Connect with Me
 
-Feel free to explore and use this code for your own site, and if you have suggestions or improvements, feel free to fork this repository or reach out to me.
+<p align="left">
+<a href="mailto:u.shernaz4rov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ulugbek-shernazarov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/eracoding"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-## Contact
+---
 
-- **Email**: [u.shernaz4rov@gmail.com](mailto:u.shernaz4rov@gmail.com)
-- **LinkedIn**: [Ulugbek Shernazarov](https://www.linkedin.com/in/ulugbek-shernazarov)
-- **GitHub**: [GitHub Profile](https://github.com/eracoding)
+## 📊 GitHub Stats
+
+| <a href="https://github.com/eracoding"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eracoding&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Ulugbek's github stats" /></a> | <a href="https://github.com/eracoding"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eracoding&layout=compact&theme=tokyonight&hide_border=true"/></a> |
+| ------------- | ------------- |
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eracoding&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eracoding&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 👀 Profile Visits
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/eracoding/count.svg" />
+</p>
+
+---
+
+# Thanks for visiting! 🚀
+
+---
